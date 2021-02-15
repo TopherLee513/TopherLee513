@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-@altered-existence-%23181717?style=flat-square&logo=github)](https://github.com/altered-existence)
 [![](https://img.shields.io/badge/-Christopher%20Lee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-lee-a423113b/)](https://www.linkedin.com/in/christopher-lee-a423113b/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=altered-existence.com&url=https%3A%2F%2Faltered-existence.com)](https://altered-existence.com)
-
+[![Discord](https://img.shields.io/discord/356807608256036866.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/356807608256036866)
 ## Stats
 
 ![Topher's Github Stats](https://github-readme-stats.vercel.app/api?username=TopherLee513&show_icons=true&theme=dracula)
