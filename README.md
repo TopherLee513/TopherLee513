@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Topher Lee
 
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=altered-existence.com&url=https%3A%2F%2Faltered-existence.com)](https://altered-existence.com)
 [![](https://vistr.dev/badge?repo=TopherLee513.TopherLee513&corners=square)](https://github.com/TopherLee513/vistr.dev)
@@ -10,6 +11,29 @@
 <!--
 [![Discord](https://img.shields.io/discord/356807608256036866.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/356807608256036866)
 -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+  - Web Development Technologies
+    - HTML/CSS/JS
+    - .NET Framework
+    - Blazor Framework
+  - Server Management
+    - Ubuntu 16.04-20.04
+    - Nginx Web Server
+    - MariaDB SQL Server
+  - Video Game Development
+    - Unity Engine
+    - Godot Engine
+
+- 📫 How to reach me: ...
+  - [Discord]()
+  - [Twitter](https://twitter.com/TopherLee513)
+  - [Facebook](https://www.facebook.com/topher.lee.13)
+  - Gmail - [topher.lee.13@gmail.com](topher.lee.13@gmail.com)
+
+- ⚡ Fun fact: ...
+  - [https:www.altered-existence.com](https:www.altered-existence.com) is hosted on my $20 Pine 64
+
 ## Stats
 
 ![Topher's Github Stats](https://github-readme-stats.vercel.app/api?username=TopherLee513&show_icons=true&theme=dracula)
@@ -19,12 +43,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
