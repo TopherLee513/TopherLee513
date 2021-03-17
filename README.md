@@ -1,5 +1,6 @@
-### Hi there 👋
+
 # Topher Lee
+### Hi there 👋
 
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=altered-existence.com&url=https%3A%2F%2Faltered-existence.com)](https://altered-existence.com)
 [![](https://vistr.dev/badge?repo=TopherLee513.TopherLee513&corners=square)](https://github.com/TopherLee513/vistr.dev)
@@ -24,7 +25,12 @@
   - Video Game Development
     - Unity Engine
     - Godot Engine
-
+  - Programming Languages
+    - C#
+    - JS
+    - HTML/CSS
+    - Markdown :)
+    - 
 - 📫 How to reach me: ...
   - [Discord]()
   - [Twitter](https://twitter.com/TopherLee513)
@@ -32,7 +38,7 @@
   - Gmail - [topher.lee.13@gmail.com](topher.lee.13@gmail.com)
 
 - ⚡ Fun fact: ...
-  - [https:www.altered-existence.com](https:www.altered-existence.com) is hosted on my $20 Pine 64
+  - [https://www.altered-existence.com](https://www.altered-existence.com) is hosted on my $20 Pine 64
 
 ## Stats
 
